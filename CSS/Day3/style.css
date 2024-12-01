@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#one{
+    color: brown;
+    text-align: center;
+}
+#two
+{
+    color: rgb(255, 0, 234);
+    text-align: center;
+}
+.mar
+{
+    border: red solid 4px ;
+    height: 100pX;
+    margin: 30px;
+    padding: 150px;
+
+}
