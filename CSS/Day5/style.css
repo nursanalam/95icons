@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    justify-content: space-between;
+    justify-content: center;
+    padding: 20px;
+    margin-left: 140px;
+    
+
+    
+
+    
+}
+nav ul{
+    display: flex;
+    margin-left: 5%;
+    list-style-type: none;
+    font-family: "Open Sans", sans-serif;
+    
+   
+    
+}
+
+    
+nav{
+height: 40px;
+width: 100%;
+background-color: rgb(67, 67, 191);
+position: fixed;
+}
+
+.content{
+    background-image: url("bac.jpg");
+    
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #con
+  {
+    /* border: 2px solid red; */
+    height: 300px;
+    width: 500px;
+    padding: 100px;
+    margin-left: 20px;
+    
+    
+  }
+  #abo-1
+  {
+    height: 400px;
+    background-color: rgb(139, 160, 163);
+    width: cover;
+
+  }
+  .abo-2
+  {
+    color: white;
+    justify-content: center;
+    text-align: center;
+
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    
+  }
+  #abo-3
+  {
+    height: 400px;
+    background-color: rgb(197, 183, 195);
+    width: cover;
+
+  }
+  .abo-4
+  {
+    color: white;
+    justify-content: center;
+    text-align: center;
+
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    
+  }
+  #abo-5
+  {
+    height: 400px;
+    background-color: rgba(71, 79, 112, 0.445);
+    width: cover;
+
+  }
+  .abo-6
+  {
+    color: rgb(18, 18, 19);
+    justify-content: center;
+    text-align: center;
+
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    
+  }
+  .foot
+  {
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    color: white;
+  }
+  
+
